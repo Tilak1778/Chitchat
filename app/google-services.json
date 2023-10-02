@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "156808040918",
+    "project_id": "stylex-d1e7c",
+    "storage_bucket": "stylex-d1e7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156808040918:android:4f1166f22487b005981477",
+        "android_client_info": {
+          "package_name": "com.richmama.chitchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156808040918-l6sthrg06f7s6nmvo72tjdjd6bde1q44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3TtyeimwJJ4ABIVWOCrszmcIfeF0TvHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156808040918-l6sthrg06f7s6nmvo72tjdjd6bde1q44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
